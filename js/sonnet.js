@@ -12,3 +12,8 @@ var newString = sonnet.replace('winter', 'yuletide');
 var replaceThe = sonnet.replace(/the /gi, 'a large ');
 
 document.getElementById('sonnet').innerHTML = replaceThe;
+
+
+    
+
+    
